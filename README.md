@@ -25,6 +25,6 @@
  <a href="https://open.spotify.com/user/wkuy4zsfubohdyuscjg4erfnw">
   <img src="https://novatorem-mcdonaldjx.vercel.app/api/spotify?theme=dark&scan=true&border_color=ffffff" alt="Current Spotify Song">
 </a><br><br>
-  <b>Reading manga</b><br>
+  <b>Watching good movies</b><br>
   <b>Playing video games</b>
 </p>
