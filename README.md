@@ -6,7 +6,7 @@
   <b>Hey there, I'm Jared!</b><br>
   <br>
 <a href="https://www.linkedin.com/in/mcdonaldjx" target="_blank"><align = "center"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin"></a><br><br>
-  I'm an aspiring Software Engineer and currently program in my spare time whenever I have a bright idea. Outside of my programming, I participate in community service events, watch movies, or play video games. In the future, I want to work on software that benefits others in some capacity. My first language is Java, but I've used multiple others to create small college projects in the past. 
+  I'm an aspiring Software Engineer and currently program in my spare time whenever I have a bright idea. My first language is Java, but I've used multiple others to create small college projects in the past. 
 </p>
 
 <h2><b>My Stats</b></h2>
